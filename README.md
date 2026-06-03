@@ -31,11 +31,4 @@ Open [http://localhost:3000](http://localhost:3000)
 
 - ./Project-structure.png
 
-## Question
 
-1) Imp point for react /next arch project set up
-2) what is componenet
-3) How to know from next it is running on server or client
-4) OL in HTML
-5) Selectors
-6)
